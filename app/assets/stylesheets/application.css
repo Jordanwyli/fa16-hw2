@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+
+ .funfact {
+ 	color: red;
+ 	font-weight: bold;
+ }
+
+ .from {
+ 	background-color: green;
+ 	color: white;
+ }
+
+ .thisclass {
+ 	color: blue;
+ 	text-decoration: underline;
+ }
